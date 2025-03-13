@@ -5,7 +5,6 @@ Welcome to the Hotel Rooftop Blog project! This is a full-stack web application 
 ## Features
 
 - **User Authentication**: Users can sign up and log in to their accounts.
-- **Blog Management**: Authenticated users can create, edit, and delete their own blog posts.
 - **Commenting System**: Users can comment on blog posts, and comments are preserved across different posts.
 - **Search Functionality**: Users can search for blog posts using keywords.
 - **Responsive Design**: The application is designed to be responsive and user-friendly across various devices.
