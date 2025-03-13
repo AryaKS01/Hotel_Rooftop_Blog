@@ -1,6 +1,6 @@
 # Hotel Rooftop Blog
 
-Welcome to the Hotel Rooftop Blog project! This is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to create, view, and interact with blog posts.
+Welcome to the Hotel Rooftop Blog project! This is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to  view, and interact with blog posts.
 
 ## Features
 
